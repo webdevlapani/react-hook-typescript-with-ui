@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="805c6318-537b-4849-bf79-283f120a84b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bqpoO0j6yg6QvSpw0B2HjCpavI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="805c6318-537b-4849-bf79-283f120a84b1" name="Default Changelist" comment="" />
+      <created>1589369651370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589369651370</updated>
+      <workItem from="1589369652505" duration="8298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="149" width="944" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589377101762">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="516" y="149" width="944" height="806" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1589377101762" />
+    <state x="762" y="238" width="453" height="628" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589378011588">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="762" y="238" width="453" height="628" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1589378011588" />
+    <state x="627" y="252" width="732" height="600" key="find.popup" timestamp="1589377503907">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="627" y="252" width="732" height="600" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1589377503907" />
+  </component>
+</project>
